@@ -14,7 +14,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 </div>
 
-本页为 **2026 年** 发文索引与读法说明（共 7 篇）；往年文章请用站点归档或站内搜索浏览。
+本页为 **2026 年** 发文索引与读法说明（共 8 篇）；往年文章请用站点归档或站内搜索浏览。
 
 ## 按主题
 
@@ -33,6 +33,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 - [当时序图遇到 Agent：一次彻底的模型失配](/2026/04/13/20260413-%E5%BD%93%E6%97%B6%E5%BA%8F%E5%9B%BE%E9%81%87%E5%88%B0Agent%E4%B8%80%E6%AC%A1%E5%BD%BB%E5%BA%95%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%A4%B1%E9%85%8D/)：时序图背后的「调用链 + 栈」模型与 ReAct 式 Agent 不同，违和感来自建模范式不一致，而非图不会画。
 - [如何让大模型稳定输出：从随机生成到可复现结果](/2026/04/18/20260418-%E5%A6%82%E4%BD%95%E8%AE%A9%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%A8%B3%E5%AE%9A%E8%BE%93%E5%87%BA%EF%BC%9A%E4%BB%8E%E9%9A%8F%E6%9C%BA%E7%94%9F%E6%88%90%E5%88%B0%E5%8F%AF%E5%A4%8D%E7%8E%B0%E7%BB%93%E6%9E%9C/)：用 temperature 等采样参数压低随机性，便于调试与集成；并交代逐 token 生成与调用侧注意点。
 - [Java 写 Agent，到底该用 Spring AI 还是 AgentScope Java？](/2026/05/10/20260510-Java%20%E5%86%99%20Agent%EF%BC%8C%E5%88%B0%E5%BA%95%E8%AF%A5%E7%94%A8%20Spring%20AI%20%E8%BF%98%E6%98%AF%20AgentScope%20Java%EF%BC%9F/)：先用 Python ReAct 对齐 LangChain/LangGraph，再对照 AgentScope Java 与 Spring AI 的封装层——前者内置 `ReActAgent` 运行时，后者偏基础设施 SDK 需自写循环；并澄清与 Spring IoC 的关系。
+- [AI 周边收集者](/2026/06/20/20260620-AI%20%E5%91%A8%E8%BE%B9%E6%94%B6%E9%9B%86%E8%80%85/)：区分训练与推理、警惕 harness 万能论；对无知坦诚、对问题开放，避免把判断成本转嫁给别人。
 
 ## 按发表时间
 
@@ -43,6 +44,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 5. 04-13 — [当时序图遇到 Agent：一次彻底的模型失配](/2026/04/13/20260413-%E5%BD%93%E6%97%B6%E5%BA%8F%E5%9B%BE%E9%81%87%E5%88%B0Agent%E4%B8%80%E6%AC%A1%E5%BD%BB%E5%BA%95%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%A4%B1%E9%85%8D/)
 6. 04-18 — [如何让大模型稳定输出：从随机生成到可复现结果](/2026/04/18/20260418-%E5%A6%82%E4%BD%95%E8%AE%A9%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%A8%B3%E5%AE%9A%E8%BE%93%E5%87%BA%EF%BC%9A%E4%BB%8E%E9%9A%8F%E6%9C%BA%E7%94%9F%E6%88%90%E5%88%B0%E5%8F%AF%E5%A4%8D%E7%8E%B0%E7%BB%93%E6%9E%9C/)
 7. 05-10 — [Java 写 Agent，到底该用 Spring AI 还是 AgentScope Java？](/2026/05/10/20260510-Java%20%E5%86%99%20Agent%EF%BC%8C%E5%88%B0%E5%BA%95%E8%AF%A5%E7%94%A8%20Spring%20AI%20%E8%BF%98%E6%98%AF%20AgentScope%20Java%EF%BC%9F/)
+8. 06-20 — [AI 周边收集者](/2026/06/20/20260620-AI%20%E5%91%A8%E8%BE%B9%E6%94%B6%E9%9B%86%E8%80%85/)
 
 ## 建议读法
 
