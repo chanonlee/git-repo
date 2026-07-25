@@ -12,7 +12,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 站内静态说明（图 + 关键代码），完整可运行 notebook 在仓库里。
 
-- [多元线性回归：手算 OLS 对照 sklearn](/card_posts/llm-notes/multi-linear-regression/)
+- [多元线性回归](/card_posts/llm-notes/multi-linear-regression/)
 
 ## 总览
 

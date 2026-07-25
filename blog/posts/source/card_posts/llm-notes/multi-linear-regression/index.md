@@ -1,22 +1,33 @@
 ---
-title: 多元线性回归：手算 OLS 对照 sklearn
+title: 多元线性回归
 date: 2026-07-25 15:57:00
 layout: post
 comments: false
+math: true
 banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ---
 
 [← LLM 相关笔记](/card_posts/llm-notes/)
 
-用模拟数据验证多元线性回归：手工闭式解与 `sklearn.LinearRegression` 是否得到同一组系数。完整 notebook：[01_Linear_Regression_multi_feature.ipynb](https://github.com/chanonlee/chanon-data-lab/blob/main/notebooks/01_Linear_Regression_multi_feature.ipynb)（仓库 [chanon-data-lab](https://github.com/chanonlee/chanon-data-lab)）。
+**手算 OLS 对照 sklearn。** 用模拟数据验证多元线性回归：手工闭式解与 `sklearn.LinearRegression` 是否得到同一组系数。完整 notebook：[01_Linear_Regression_multi_feature.ipynb](https://github.com/chanonlee/chanon-data-lab/blob/main/notebooks/01_Linear_Regression_multi_feature.ipynb)（仓库 [chanon-data-lab](https://github.com/chanonlee/chanon-data-lab)）。
 
 ## 公式
 
-带截距的设计矩阵 $X$（首列全 1），OLS 闭式解：
+带截距的设计矩阵 X（首列全 1），OLS 闭式解：
 
-$$\beta = (X^\top X)^{-1} X^\top y$$
+<div>
+\[
+\beta = (X^{\top} X)^{-1} X^{\top} y
+\]
+</div>
 
-真值设定为 $y = 3 + 2 x_1 - 1.5 x_2 + 0.8 x_3 + \varepsilon$。
+真值设定为：
+
+<div>
+\[
+y = 3 + 2 x_{1} - 1.5 x_{2} + 0.8 x_{3} + \varepsilon
+\]
+</div>
 
 ## 关键代码
 
@@ -53,6 +64,6 @@ model.fit(X[:, 1:], y)
 
 ![残差散点](/img/llm-notes-lr-residuals.png)
 
-固定 $x_3$ 为均值时，$x_1$–$x_2$–$y$ 上的回归平面：
+固定 x3 为均值时，x1–x2–y 上的回归平面：
 
 ![回归平面](/img/llm-notes-lr-plane.png)
