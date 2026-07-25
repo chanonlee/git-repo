@@ -12,8 +12,8 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 </div>
 
-<div class="row links">
-  <div class="card col-lg-4 col-md-6 col-sm-12">
+<div class="row links links-span-full">
+  <div class="card col-12 col-md-6">
     <a href="/card_posts/business-domains/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -23,7 +23,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-lg-4 col-md-6 col-sm-12">
+  <div class="card col-12 col-md-6">
     <a href="/card_posts/llm-notes/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">

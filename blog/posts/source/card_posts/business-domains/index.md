@@ -10,8 +10,8 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 按领域拆开的模型入口：库存、支付、交易、会员。每张卡对应一块边界内的概念与笔记；下方「代码实现」是跨领域共享的落地架子。
 
-<div class="row links">
-  <div class="card col-lg-4 col-md-6 col-sm-12">
+<div class="row links links-span-full">
+  <div class="card col-6 col-md-3">
     <a href="/card_posts/business-domains/inventory/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -21,7 +21,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-lg-4 col-md-6 col-sm-12">
+  <div class="card col-6 col-md-3">
     <a href="/card_posts/business-domains/payment/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -31,7 +31,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-lg-4 col-md-6 col-sm-12">
+  <div class="card col-6 col-md-3">
     <a href="/card_posts/business-domains/trade/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -41,7 +41,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-lg-4 col-md-6 col-sm-12">
+  <div class="card col-6 col-md-3">
     <a href="/card_posts/business-domains/membership/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">

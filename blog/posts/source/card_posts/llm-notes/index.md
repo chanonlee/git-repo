@@ -12,34 +12,127 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 ### 模式识别
 
-- [多元线性回归](/card_posts/llm-notes/multi-linear-regression/)
-- [线性判别分析（LDA）](/card_posts/llm-notes/lda-multi-feature/)
+<div class="row links links-span-full">
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/multi-linear-regression/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">多元线性回归</div>
+          <div class="link-intro">手算 OLS 对照 sklearn；用模拟数据验证闭式解与 LinearRegression 是否同系数。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/lda-multi-feature/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">线性判别分析（LDA）</div>
+          <div class="link-intro">手算 SW/SB 对照 sklearn；小样本多类投影方向与 scalings_ 对照。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
 
 ### 特征工程
 
 ### 深度学习
 
-- [Word2Vec Skip-gram](/card_posts/llm-notes/word2vec-skip-gram/)
-- [Word2Vec Skip-gram 训练](/card_posts/llm-notes/word2vec-skip-gram-train/)
+<div class="row links links-span-full">
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/word2vec-skip-gram/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">Word2Vec Skip-gram</div>
+          <div class="link-intro">通向语言模型的过渡：Skip-gram 用神经网络学稠密词向量。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/word2vec-skip-gram-train/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">Word2Vec Skip-gram 训练</div>
+          <div class="link-intro">Skip-gram 的 MLE 与梯度下降；逐步可视化训练过程。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
 
 ### 大模型
 
-- [LangChain 入门 demo](/card_posts/llm-notes/langchain-demo/)
-- [LangChain Agents demo](/card_posts/llm-notes/langchain-agents/)
+<div class="row links links-span-full">
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/langchain-demo/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">LangChain 入门 demo</div>
+          <div class="link-intro">Prompt / Memory / Chain 入门；本地 LM Studio（OpenAI 兼容）。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/langchain-agents/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">LangChain Agents demo</div>
+          <div class="link-intro">工具 + ReAct Agent；load_tools + initialize_agent，本地 LM Studio。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
 
 ## 大模型时代问题空间如何变迁
 
 ### 持续对话
 
-- [Conversational RAG demo](/card_posts/llm-notes/conversational-retrieval/)
+<div class="row links links-span-full">
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/conversational-retrieval/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">Conversational RAG demo</div>
+          <div class="link-intro">带记忆的 Conversational RAG；Chroma 检索 + ConversationBufferMemory。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
 
 ### 图像与声音
 
-- [本地视觉识别](/card_posts/llm-notes/local-vision-minimal/)
+<div class="row links links-span-full">
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/local-vision-minimal/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">本地视觉识别</div>
+          <div class="link-intro">本地 VL 识别图像；图片转 base64 经 OpenAI 兼容接口调用。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
 
 ### 固定目标（Agent）
 
-- [本地文本 Prompt + Tool](/card_posts/llm-notes/local-text-tools/)
+<div class="row links links-span-full">
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/local-text-tools/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">本地文本 Prompt + Tool</div>
+          <div class="link-intro">Prompt 驱动的多轮 tool calling（mock）；@tool + bind_tools。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
 
 ### 用法优化
 
@@ -51,7 +144,45 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 ## 工具用法
 
-- [PyTorch autograd](/card_posts/llm-notes/pytorch-autograd/)
-- [Chroma 向量数据库](/card_posts/llm-notes/langchain-chroma/)
-- [Chroma 检索摘要](/card_posts/llm-notes/langchain-chroma-summarize/)
-- [Pydantic 校验](/card_posts/llm-notes/pydantic/)
+<div class="row links links-span-full">
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/pytorch-autograd/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">PyTorch autograd</div>
+          <div class="link-intro">计算图与自动求导；requires_grad、backward、autograd.grad。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/langchain-chroma/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">Chroma 向量数据库</div>
+          <div class="link-intro">向量库入库与检索；HuggingFaceEmbeddings + Chroma.from_documents。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/langchain-chroma-summarize/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">Chroma 检索摘要</div>
+          <div class="link-intro">检索后 stuff 摘要；Chroma + RetrievalQA（stuff 链）。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12 col-md-6 col-lg-4">
+    <a href="/card_posts/llm-notes/pydantic/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">Pydantic 校验</div>
+          <div class="link-intro">用模型约束结果结构与范围；BaseModel / EmailStr 等。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
