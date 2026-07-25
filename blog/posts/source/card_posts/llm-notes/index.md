@@ -13,20 +13,33 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ### 模式识别
 
 - [多元线性回归](/card_posts/llm-notes/multi-linear-regression/)
+- [线性判别分析（LDA）](/card_posts/llm-notes/lda-multi-feature/)
 
 ### 特征工程
 
 ### 深度学习
 
+- [Word2Vec Skip-gram](/card_posts/llm-notes/word2vec-skip-gram/)
+- [Word2Vec Skip-gram 训练](/card_posts/llm-notes/word2vec-skip-gram-train/)
+
 ### 大模型
+
+- [LangChain 入门 demo](/card_posts/llm-notes/langchain-demo/)
+- [LangChain Agents demo](/card_posts/llm-notes/langchain-agents/)
 
 ## 大模型时代问题空间如何变迁
 
 ### 持续对话
 
+- [Conversational Retrieval 聊天 demo](/card_posts/llm-notes/conversational-retrieval/)
+
 ### 图像与声音
 
+- [本地视觉识别](/card_posts/llm-notes/local-vision-minimal/)
+
 ### 固定目标（Agent）
+
+- [本地文本 Prompt + Tool](/card_posts/llm-notes/local-text-tools/)
 
 ### 用法优化
 
@@ -35,3 +48,10 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ### 工程落地
 
 ## 问题空间收敛：从 AI 系统设计到代码实现
+
+## 工具用法
+
+- [PyTorch autograd](/card_posts/llm-notes/pytorch-autograd/)
+- [Chroma 向量数据库](/card_posts/llm-notes/langchain-chroma/)
+- [Chroma 检索摘要](/card_posts/llm-notes/langchain-chroma-summarize/)
+- [Pydantic 校验](/card_posts/llm-notes/pydantic/)
