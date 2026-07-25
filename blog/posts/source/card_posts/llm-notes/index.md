@@ -60,6 +60,36 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
+  <div class="card col-12">
+    <a href="/card_posts/llm-notes/seq2seq-rnn/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">seq2seq(use rnn)</div>
+          <div class="link-intro">同用例中译英 Seq2Seq；骨干 nn.RNN，无 Attention。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12">
+    <a href="/card_posts/llm-notes/seq2seq-lstm/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">seq2seq(use lstm)</div>
+          <div class="link-intro">同用例中译英 Seq2Seq；骨干 nn.LSTM，无 Attention。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12">
+    <a href="/card_posts/llm-notes/seq2seq-transformer/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">seq2seq(use Transformer)</div>
+          <div class="link-intro">同用例中译英 Seq2Seq；骨干 Transformer（自注意力 + 跨注意力）。</div>
+        </div>
+      </div>
+    </a>
+  </div>
 </div>
 
 ### 大模型
