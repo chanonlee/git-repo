@@ -8,27 +8,17 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 <div style="font-size: 0.9em; color: #8a8a8a; line-height: 1.7; margin-bottom: 1.5rem;">
 
-这里汇总业余时间在写的小工程入口：一部分是把交易、支付这类链路「缩小到能跑」的演练仓库；另一部分是博客里与大模型相关的笔记索引。它们未必追求上线完备，更像把某一阶段的追问固化成可点开、可改的版本。
+这里汇总业余时间在写的小工程入口：一部分是业务领域模型（库存、支付、交易、会员）与代码落地架子；另一部分是博客里与大模型相关的笔记索引。它们未必追求上线完备，更像把某一阶段的追问固化成可点开、可改的版本。
 
 </div>
 
 <div class="row links">
   <div class="card col-lg-4 col-md-6 col-sm-12">
-    <a href="/card_posts/toy-trade/" class="card-body hover-with-bg">
+    <a href="/card_posts/business-domains/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
-          <div class="link-title">toy-trade</div>
-          <div class="link-intro">最小化的单据与状态机，把成交、履约与资金流转串起来；偏可读与实验，而非完整交易系统。</div>
-        </div>
-      </div>
-    </a>
-  </div>
-  <div class="card col-lg-4 col-md-6 col-sm-12">
-    <a href="/card_posts/toy-payment/" class="card-body hover-with-bg">
-      <div class="card-content">
-        <div class="link-text">
-          <div class="link-title">toy-payment</div>
-          <div class="link-intro">围绕支付意图、渠道选择与回调验签搭的一条迷你链路，用来对齐术语与边界分支。</div>
+          <div class="link-title">业务领域</div>
+          <div class="link-intro">库存、支付、交易、会员等分领域模型入口；下方挂系统边界到服务运行的代码实现架子。</div>
         </div>
       </div>
     </a>

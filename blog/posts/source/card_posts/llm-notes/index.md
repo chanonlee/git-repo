@@ -31,7 +31,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 ### 持续对话
 
-- [Conversational Retrieval 聊天 demo](/card_posts/llm-notes/conversational-retrieval/)
+- [Conversational RAG demo](/card_posts/llm-notes/conversational-retrieval/)
 
 ### 图像与声音
 

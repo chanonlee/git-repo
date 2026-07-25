@@ -1,5 +1,5 @@
 ---
-title: Conversational Retrieval 聊天 demo
+title: Conversational RAG demo
 date: 2026-07-25 17:07:43
 layout: post
 comments: false
@@ -8,7 +8,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 [← LLM 相关笔记](/card_posts/llm-notes/)
 
-**带记忆的检索问答（聊天 demo）。** Chroma + `ConversationBufferMemory` + `ConversationalRetrievalChain`。本地 embedding + LM Studio；**仅占位 key。** 完整 notebook：[09_langchain_conversational_retrieval.ipynb](https://github.com/chanonlee/chanon-data-lab/blob/main/notebooks/09_langchain_conversational_retrieval.ipynb)（仓库 [chanon-data-lab](https://github.com/chanonlee/chanon-data-lab)）。
+**带记忆的 Conversational RAG。** Chroma 检索 + `ConversationBufferMemory` + `ConversationalRetrievalChain` 生成。本地 embedding + LM Studio；**仅占位 key。** 完整 notebook：[09_langchain_rag_conversational.ipynb](https://github.com/chanonlee/chanon-data-lab/blob/main/notebooks/09_langchain_rag_conversational.ipynb)（仓库 [chanon-data-lab](https://github.com/chanonlee/chanon-data-lab)）。
 
 ## 关键代码
 
