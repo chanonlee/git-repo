@@ -38,7 +38,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       <div class="card-content">
         <div class="link-text">
           <div class="link-title">LLM 相关笔记</div>
-          <div class="link-intro">问题空间笔记架子（整理中）；站内已发文见阅读地图。</div>
+          <div class="link-intro">问题空间架子 + Jupyter 实验索引；站内已发文见阅读地图。</div>
         </div>
       </div>
     </a>

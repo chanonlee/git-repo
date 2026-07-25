@@ -6,9 +6,13 @@ comments: false
 banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ---
 
-本页是 Side Project 入口，用来按「问题空间」挂自己的 LLM 笔记；**不进首页列表**。站内已发文见 [阅读地图](/guide/)。
+本页是 Side Project 入口：**问题空间索引 + Jupyter 实验**；**不进首页列表**。站内已发文见 [阅读地图](/guide/)。完整 notebook 仓库：[chanon-data-lab](https://github.com/chanonlee/chanon-data-lab)。
 
-内容还在整理，先留层级：
+## Jupyter 实验
+
+站内静态说明（图 + 关键代码），完整可运行 notebook 在仓库里。
+
+- [多元线性回归：手算 OLS 对照 sklearn](/card_posts/llm-notes/multi-linear-regression/)
 
 ## 总览
 
