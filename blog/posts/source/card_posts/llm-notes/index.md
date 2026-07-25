@@ -13,7 +13,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ### 模式识别
 
 <div class="row links links-span-full">
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/multi-linear-regression/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -23,7 +23,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/lda-multi-feature/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -40,7 +40,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ### 深度学习
 
 <div class="row links links-span-full">
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/word2vec-skip-gram/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -50,7 +50,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/word2vec-skip-gram-train/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -65,7 +65,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ### 大模型
 
 <div class="row links links-span-full">
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/langchain-demo/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -75,7 +75,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/langchain-agents/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -92,7 +92,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ### 持续对话
 
 <div class="row links links-span-full">
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/conversational-retrieval/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -107,7 +107,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ### 图像与声音
 
 <div class="row links links-span-full">
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/local-vision-minimal/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -122,7 +122,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ### 固定目标（Agent）
 
 <div class="row links links-span-full">
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/local-text-tools/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -145,7 +145,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ## 工具用法
 
 <div class="row links links-span-full">
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/pytorch-autograd/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -155,7 +155,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/langchain-chroma/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -165,7 +165,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/langchain-chroma-summarize/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
@@ -175,7 +175,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
-  <div class="card col-12 col-md-6 col-lg-4">
+  <div class="card col-12">
     <a href="/card_posts/llm-notes/pydantic/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
