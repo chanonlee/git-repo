@@ -33,9 +33,52 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
+  <div class="card col-12">
+    <a href="/card_posts/llm-notes/knn/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">K 近邻（KNN）</div>
+          <div class="link-intro">距离投票；手算欧氏距离对照 KNeighborsClassifier；尺度敏感。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12">
+    <a href="/card_posts/llm-notes/decision-tree/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">决策树</div>
+          <div class="link-intro">一层基尼分裂手算对照 DecisionTreeClassifier；在已有特征上选规则。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12">
+    <a href="/card_posts/llm-notes/svm-linear/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">SVM（不展开核技巧）</div>
+          <div class="link-intro">线性最大间隔；与 LDA 对照；仅 LinearSVC / 线性核。</div>
+        </div>
+      </div>
+    </a>
+  </div>
 </div>
 
 ### 特征工程
+
+<div class="row links links-span-full">
+  <div class="card col-12">
+    <a href="/card_posts/llm-notes/bag-of-words/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">词袋模型（Bag-of-Words）</div>
+          <div class="link-intro">稀疏计数向量与 one-hot 对照；通向 Word2Vec 稠密表示之前的手工特征。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
 
 ### 深度学习
 
