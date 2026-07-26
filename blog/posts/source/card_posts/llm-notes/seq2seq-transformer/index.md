@@ -1,5 +1,5 @@
 ---
-title: seq2seq(use Transformer)
+title: Seq2Seq（Transformer）
 date: 2026-07-25 20:33:54
 layout: post
 comments: false
@@ -11,7 +11,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 **同一用例下的 Seq2Seq，骨干为 Transformer（自注意力 + 跨注意力）。** 中文句子 → Encoder → Decoder 逐词生成英文。完整 notebook：[06_pytorch_transformer.ipynb](https://github.com/chanonlee/chanon-data-lab/blob/lab/simple_example/notebooks/06_pytorch_transformer.ipynb)（仓库 [chanon-data-lab](https://github.com/chanonlee/chanon-data-lab)）。
 
-同用例对照：[seq2seq(use rnn)](/card_posts/llm-notes/seq2seq-rnn/) · [seq2seq(use lstm)](/card_posts/llm-notes/seq2seq-lstm/)
+同用例对照：[Seq2Seq（RNN）](/card_posts/llm-notes/seq2seq-rnn/) · [Seq2Seq（LSTM）](/card_posts/llm-notes/seq2seq-lstm/)
 
 ## 用例（三篇共用）
 

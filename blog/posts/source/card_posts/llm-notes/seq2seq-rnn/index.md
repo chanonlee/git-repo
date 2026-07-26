@@ -1,5 +1,5 @@
 ---
-title: seq2seq(use rnn)
+title: Seq2Seq（RNN）
 date: 2026-07-25 20:33:54
 layout: post
 comments: false
@@ -11,7 +11,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 **同一用例下的 Seq2Seq，骨干为 `nn.RNN`（无 Attention）。** 中文句子 → Encoder 隐状态 → Decoder 逐词生成英文。完整 notebook：[24_rnn_seq2seq.ipynb](https://github.com/chanonlee/chanon-data-lab/blob/lab/simple_example/notebooks/24_rnn_seq2seq.ipynb)（仓库 [chanon-data-lab](https://github.com/chanonlee/chanon-data-lab)）。
 
-同用例对照：[seq2seq(use lstm)](/card_posts/llm-notes/seq2seq-lstm/) · [seq2seq(use Transformer)](/card_posts/llm-notes/seq2seq-transformer/)
+同用例对照：[Seq2Seq（LSTM）](/card_posts/llm-notes/seq2seq-lstm/) · [Seq2Seq（Transformer）](/card_posts/llm-notes/seq2seq-transformer/)
 
 ## 用例（三篇共用）
 
