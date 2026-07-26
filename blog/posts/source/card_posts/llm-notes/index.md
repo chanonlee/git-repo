@@ -17,7 +17,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
     <a href="/card_posts/llm-notes/multi-linear-regression/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
-          <div class="link-title">多元线性回归</div>
+          <div class="link-title">多元线性回归（OLS）</div>
           <div class="link-intro">手算 OLS 对照 sklearn；用模拟数据验证闭式解与 LinearRegression 是否同系数。</div>
         </div>
       </div>
@@ -47,7 +47,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
     <a href="/card_posts/llm-notes/decision-tree/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
-          <div class="link-title">决策树</div>
+          <div class="link-title">决策树（DT）</div>
           <div class="link-intro">一层基尼分裂手算对照 DecisionTreeClassifier；在已有特征上选规则。</div>
         </div>
       </div>
@@ -57,7 +57,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
     <a href="/card_posts/llm-notes/svm-linear/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
-          <div class="link-title">SVM（不展开核技巧）</div>
+          <div class="link-title">支持向量机（SVM）（不展开核技巧）</div>
           <div class="link-intro">线性最大间隔；与 LDA 对照；仅 LinearSVC / 线性核。</div>
         </div>
       </div>

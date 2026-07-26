@@ -1,5 +1,5 @@
 ---
-title: 决策树
+title: 决策树（DT）
 date: 2026-07-26 13:15:46
 layout: post
 comments: false

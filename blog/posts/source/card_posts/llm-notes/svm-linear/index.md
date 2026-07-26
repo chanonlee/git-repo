@@ -1,5 +1,5 @@
 ---
-title: SVM（不展开核技巧）
+title: 支持向量机（SVM）（不展开核技巧）
 date: 2026-07-26 13:15:46
 layout: post
 comments: false

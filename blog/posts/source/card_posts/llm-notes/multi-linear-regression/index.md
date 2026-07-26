@@ -1,5 +1,5 @@
 ---
-title: 多元线性回归
+title: 多元线性回归（OLS）
 date: 2026-07-25 15:57:00
 layout: post
 comments: false
