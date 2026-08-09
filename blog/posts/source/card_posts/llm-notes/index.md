@@ -211,9 +211,11 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 ### Harness
 
-### 工程落地
+## 问题空间收敛：从 AI 系统设计到代码实现
 
-#### 基础工具
+## 工程落地
+
+### 基础工具
 
 <div class="row links links-span-full">
   <div class="card col-12">
@@ -258,15 +260,15 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
   </div>
 </div>
 
-#### 模型 Runtime
+### 模型 Runtime
 
 <div class="row links links-span-full">
   <div class="card col-12">
-    <a href="https://github.com/chanonlee/chanon-data-lab/blob/lab/simple_example/notebooks/runtime/05_mlx_device_stream.ipynb" class="card-body hover-with-bg">
+    <a href="/card_posts/llm-notes/mlx-runtime/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
           <div class="link-title">MLX Runtime</div>
-          <div class="link-intro">Apple Silicon 上的深度学习计算框架；探索 Array、Device、Stream、Lazy Evaluation、Kernel、Distributed Communication。</div>
+          <div class="link-intro">MLX 系统五层：数据 · 资源 · 执行 · 通信 · 优化；先拆层再串一次训练步。</div>
         </div>
       </div>
     </a>
@@ -292,5 +294,3 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
     </a>
   </div>
 </div>
-
-## 问题空间收敛：从 AI 系统设计到代码实现
