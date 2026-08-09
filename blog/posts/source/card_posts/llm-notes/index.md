@@ -213,9 +213,7 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 ### 工程落地
 
-## 问题空间收敛：从 AI 系统设计到代码实现
-
-## 工具用法
+#### 基础工具
 
 <div class="row links links-span-full">
   <div class="card col-12">
@@ -224,6 +222,16 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
         <div class="link-text">
           <div class="link-title">PyTorch autograd</div>
           <div class="link-intro">计算图与自动求导；requires_grad、backward、autograd.grad。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12">
+    <a href="/card_posts/llm-notes/pydantic/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">Pydantic 校验</div>
+          <div class="link-intro">用模型约束结果结构与范围；BaseModel / EmailStr 等。</div>
         </div>
       </div>
     </a>
@@ -248,14 +256,41 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
+</div>
+
+#### 模型 Runtime
+
+<div class="row links links-span-full">
   <div class="card col-12">
-    <a href="/card_posts/llm-notes/pydantic/" class="card-body hover-with-bg">
+    <a href="https://github.com/chanonlee/chanon-data-lab/blob/lab/simple_example/notebooks/runtime/05_mlx_device_stream.ipynb" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
-          <div class="link-title">Pydantic 校验</div>
-          <div class="link-intro">用模型约束结果结构与范围；BaseModel / EmailStr 等。</div>
+          <div class="link-title">MLX Runtime</div>
+          <div class="link-intro">Apple Silicon 上的深度学习计算框架；探索 Array、Device、Stream、Lazy Evaluation、Kernel、Distributed Communication。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12">
+    <a href="#" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">vLLM Runtime</div>
+          <div class="link-intro"></div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="card col-12">
+    <a href="#" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">PyTorch Runtime</div>
+          <div class="link-intro"></div>
         </div>
       </div>
     </a>
   </div>
 </div>
+
+## 问题空间收敛：从 AI 系统设计到代码实现
