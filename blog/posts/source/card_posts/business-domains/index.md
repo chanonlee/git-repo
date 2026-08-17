@@ -10,17 +10,24 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 按领域拆开的模型入口：库存、支付、交易、会员。每张卡对应一块边界内的概念与笔记；下方「代码实现」是跨领域共享的落地架子。
 
+### 库存
+
 <div class="row links links-span-full">
   <div class="card col-12">
-    <a href="/card_posts/business-domains/inventory/" class="card-body hover-with-bg">
+    <a href="/card_posts/business-domains/inventory/inventory-what-if-lab/" class="card-body hover-with-bg">
       <div class="card-content">
         <div class="link-text">
-          <div class="link-title">库存</div>
-          <div class="link-intro">可用量、预占、出入库与对账；把「有多少」和「谁占了」说清楚。</div>
+          <div class="link-title">Inventory What-If Lab</div>
+          <div class="link-intro">单变量 Control / Experiment 对比的门店库存 What-If 试验台；看局部规则如何牵动报废、流水与盈利。</div>
         </div>
       </div>
     </a>
   </div>
+</div>
+
+### 支付
+
+<div class="row links links-span-full">
   <div class="card col-12">
     <a href="/card_posts/business-domains/payment/" class="card-body hover-with-bg">
       <div class="card-content">
@@ -31,6 +38,11 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
+</div>
+
+### 交易
+
+<div class="row links links-span-full">
   <div class="card col-12">
     <a href="/card_posts/business-domains/trade/" class="card-body hover-with-bg">
       <div class="card-content">
@@ -41,6 +53,11 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
       </div>
     </a>
   </div>
+</div>
+
+### 会员
+
+<div class="row links links-span-full">
   <div class="card col-12">
     <a href="/card_posts/business-domains/membership/" class="card-body hover-with-bg">
       <div class="card-content">

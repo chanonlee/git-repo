@@ -6,7 +6,7 @@ comments: false
 banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 ---
 
-[← 库存](/card_posts/business-domains/inventory/)
+[← 业务领域](/card_posts/business-domains/)
 
 **门店库存 What-If 试验台。** 同一套订货 / FEFO / 生产规则下，只改一个局部变量，把 Control 与 Experiment 从 Day 0 各自跑满 N 天，对照库存、报废、流水与盈利。代码在 [chanon-data-lab · src/inventory-what-if-lab](https://github.com/chanonlee/chanon-data-lab/tree/lab/simple_example/src/inventory-what-if-lab)。
 
