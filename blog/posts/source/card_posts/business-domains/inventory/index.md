@@ -12,4 +12,15 @@ banner_img: /img/44d47d503b09e7879b9788cdcc98082.jpg
 
 ## 笔记与链接
 
-（待填）
+<div class="row links links-span-full">
+  <div class="card col-12">
+    <a href="/card_posts/business-domains/inventory/inventory-what-if-lab/" class="card-body hover-with-bg">
+      <div class="card-content">
+        <div class="link-text">
+          <div class="link-title">Inventory What-If Lab</div>
+          <div class="link-intro">单变量 Control / Experiment 对比的门店库存 What-If 试验台；看局部规则如何牵动报废、流水与盈利。</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
